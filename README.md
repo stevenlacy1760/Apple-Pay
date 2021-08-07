@@ -2,4 +2,4 @@
 Case study 
 
 
-![Apple Pay Logo](
+![Apple Pay Logo](ApplePay.png)
