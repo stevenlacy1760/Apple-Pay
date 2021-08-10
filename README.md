@@ -2,7 +2,7 @@
 
 ## Overview and Origin
 
-Stellar was founded in 2014 by Jed McCaleb and lawyer Joyce Kim. The idea behind Stellar is being able to create a CryptoCurrency that can reduce transaction costs and serve as a bridge between all types of currencies. Stellar uses the lumens from direct developer funds to advocate and fund stellar.
+Stellar was founded in 2014 by Jed McCaleb and lawyer Joyce Kim. The idea behind Stellar is being able to create a CryptoCurrency that can reduce transaction costs and serve as a bridge between all types of currencies. Stellar uses the lumens from direct developer funds to advocate and fund stellar.They also did not raise capital from the public to launch but instead took $3 million from stripe to launch the blockchain.
 
 ## Buisness Activities
 
