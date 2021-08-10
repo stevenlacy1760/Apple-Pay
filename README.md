@@ -20,6 +20,12 @@ Stellar is known to partnership with multiple companies such as IBM, Stripe, Sur
 
 I would personally recommend stellar to offer pay incentives such as mining with BitCoin or staking ada coins with cardano and getting weekly rewards. This would influence more developers and programs to offer their products and ideas to stellar which could stabilize the platform to perfection. Something that comes to mind is a staking pool, stellar should rewards in shared lumens since they do hold 60% of the supply. I'm not sure if that would be possible or if it's already being worked on but there are quite a few project groups working on new features right now.
 
+## Resources
+
+(https://www.stellar.org/learn/intro-to-stellar)
+
+(https://www.cryptoeq.io/coreReports/stellar-abridged)
+
 
 
 
